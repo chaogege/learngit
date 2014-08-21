@@ -1,1 +1,4 @@
 Test my git languages, haha.
+
+实际上我之前已经提交过一次内容了，使用git status指令可以看到  提醒 test.txt 有变化，我使用了git checkout -- test.txt 之前变化过的内容就消失了。
+这段话

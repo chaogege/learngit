@@ -1,1 +1,0 @@
-now,we come together to have a test with .sql
